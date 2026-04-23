@@ -32,6 +32,10 @@ Frontend: Created a clean, user-friendly interface for inputting scooter specs (
 
 Tunneling: Integrated ngrok to make the local development server accessible via a public URL for real-time testing.
 
+5. Final Output:
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/efc411d7-4fae-4682-9589-8833ae79d085" />
+
+
 🛠️ Tech Stack
 Python (Pandas, Numpy, Scikit-Learn)
 
